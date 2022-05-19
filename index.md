@@ -253,7 +253,6 @@ adjust the times and titles, then delete the characters above and below that ser
 <!--
 ONE HALF DAY SCHEDULE
 --->
-<!--
 <div class="row">
   <div class="col-md-6">
     <h3>Day 1</h3>
@@ -270,8 +269,6 @@ ONE HALF DAY SCHEDULE
     </table>
   </div>
 </div>
-
--->
 
 
 
