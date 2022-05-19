@@ -4,7 +4,7 @@ root: .               # DON'T CHANGE THIS EITHER.  (THANK YOU.)
 country: "UK"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 humandate: "20 May 2022"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
-humantime: "01:15 - 04:45 (UTC+1)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
+humantime: "01:15 pm - 04:45 pm (UTC+1)"    # human-readable times for the workshop (e.g., "9:00 am - 4:30 pm")
 startdate: 2022-05-20      # machine-readable start date for the workshop in YYYY-MM-DD format like 2015-01-01
 enddate: 2022-05-20        # machine-readable end date for the workshop in YYYY-MM-DD format like 2015-01-02
 instructor: ["Md Intekhabul Hafiz", "Annajiat Alim Rasel"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
@@ -255,15 +255,15 @@ ONE HALF DAY SCHEDULE
 --->
 <div class="row">
   <div class="col-md-6">
-    <h3>Day 1</h3>
+    <h3>Day 1, Friday 20 May 2022 01:15 pm - 04:45 pm</h3>
     <table class="table table-striped">
       <tr> <td>13:15</td> <td>Welcome </td> </tr>
-      <tr> <td>13:30</td> <td>Building Skill with Practice and Feedback </td> </tr>
+      <tr> <td>13:30</td> <td><a href="https://carpentries.github.io/instructor-training/02-practice-learning/">Building Skill with Practice</a> and <a href="https://carpentries.github.io/instructor-training/06-feedback/">Feedback</a> </td> </tr>
       <tr> <td>14:30</td> <td>Break </td> </tr>
-      <tr> <td>14:40</td> <td>Motivation and Building Positive Learning Environment </td> </tr>
+      <tr> <td>14:40</td> <td><a href="https://carpentries.github.io/instructor-training/08-motivation/">Motivation and Building Positive Learning Environment</a> </td> </tr>
       <tr> <td>15:15</td> <td>Break </td> </tr>
-      <tr> <td>15:25</td> <td>Live Coding Is a Skill </td> </tr>
-      <tr> <td>16:35</td> <td>Working in a Team</td> </tr>
+      <tr> <td>15:25</td> <td><a href="https://carpentries.github.io/instructor-training/17-live/">Live Coding Is a Skill</a> </td> </tr>
+      <tr> <td>16:35</td> <td><a href="https://carpentries.github.io/instructor-training/21-management/">Working With Your Team</a></td> </tr>
       <tr> <td>16:43</td> <td>Post-Training Survey </td> </tr>
       <tr> <td>16:45</td> <td>Finish </td> </tr>
     </table>
