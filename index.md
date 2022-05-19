@@ -249,7 +249,34 @@ for more information.
 NOTE: This space can be customized to reflect the unique schedule of your workshop. If you would like it to display, 
 adjust the times and titles, then delete the characters above and below that serve to comment it out.
 -->
-  
+
+<!--
+ONE HALF DAY SCHEDULE
+--->
+<!--
+<div class="row">
+  <div class="col-md-6">
+    <h3>Day 1</h3>
+    <table class="table table-striped">
+      <tr> <td>13:15</td> <td>Welcome </td> </tr>
+      <tr> <td>13:30</td> <td>Building Skill with Practice and Feedback </td> </tr>
+      <tr> <td>14:30</td> <td>Break </td> </tr>
+      <tr> <td>14:40</td> <td>Motivation and Building Positive Learning Environment </td> </tr>
+      <tr> <td>15:15</td> <td>Break </td> </tr>
+      <tr> <td>15:25</td> <td>Live Coding Is a Skill </td> </tr>
+      <tr> <td>16:35</td> <td>Working in a Team</td> </tr>
+      <tr> <td>16:43</td> <td>Post-Training Survey </td> </tr>
+      <tr> <td>16:45</td> <td>Finish </td> </tr>
+    </table>
+  </div>
+</div>
+
+-->
+
+
+
+
+
 <!--
 TWO DAY SCHEDULE
 --->
